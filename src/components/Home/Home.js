@@ -46,7 +46,7 @@ const Home = () => {
                         }
                     </div>
                     <div>
-                        <button onClick={handleSeeReviews} className='btn btn-outline-success fs-5 mb-5 mt-4'>See All Reviews</button>
+                        <button onClick={handleSeeReviews} className='btn btn-outline-danger fs-5 mb-5 mt-4'>See All Reviews</button>
                     </div>
                 </div>
             </div>
