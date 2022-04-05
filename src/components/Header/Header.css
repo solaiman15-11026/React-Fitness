@@ -1,5 +1,5 @@
 .menubar {
-    background-color: rgb(8, 119, 82);
+    background-color: rgb(19, 117, 156);
     padding: 20px 0;
     font-size: 18px;
 
@@ -14,6 +14,6 @@
 
 
 .manubar-item:hover {
-    color: #000;
-    border-bottom: 2px solid red;
+    color: rgb(236, 128, 128);
+    border-bottom: 2px solid rgb(214, 116, 25);
 }
