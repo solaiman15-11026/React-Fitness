@@ -1,8 +1,13 @@
 .demo-button:hover {
-    color: rgb(8, 119, 82);
+    color: rgb(17, 49, 231);
     background-color: gray;
 }
 
 .banner-image img {
     border-radius: 25px;
+}
+
+.text{
+    text-align: justify;
+    font-size: 17px;
 }

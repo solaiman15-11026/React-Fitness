@@ -12,8 +12,8 @@ const About = () => {
                     <img className='img-fluid shadow-sm ' src={banner} alt="" />
                 </div>
                 <div className="banner-heading align-middle">
-                    <h1 className=' text-uppercase fw-bolder text-success fs-1 mb-2'>Mac Book Pro</h1>
-                    <p className=' fw-bold mt-2 py-2' >M1 Pro and M1 Max revolutionize the MacBook Pro experience and mark a huge step forward in the transition to Apple silicon on Mac.</p>
+                    <h1 className=' text-uppercase fw-bolder text-success fs-1 mb-2'>The Apple Watch</h1>
+                    <p className=' fw-bold mt-2 py-2 text' >Well, it’s a distinctive piece of tech that at first can be hard to get your head around, or even to quite know what it does. In short, it’s a watch that sends notifications and other information from your iPhone to your wrist and lets you send stuff back the other way, whether that’s a text message, a phone call or a simple way to call an Uber.</p>
                     <button className='btn btn-outline-success fs-5 mb-5'>Live Demo</button>
                 </div>
             </div>
