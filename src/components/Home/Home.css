@@ -1,0 +1,8 @@
+.demo-button:hover {
+    color: rgb(8, 119, 82);
+    background-color: gray;
+}
+
+.banner-image img {
+    border-radius: 25px;
+}
