@@ -7,6 +7,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project git link [Private git link](https://github.com/programming-hero-web-course-4/product-analysis-website-solaiman15-11026)
 ## Available Scripts
 
+This is a Apple watch review app.
+* Our best client to review us.
+* In this site our client infrom everything about prodect.
+* In our dashboard, we are showing 4 charts that show increment decrement details.
+
 In the project directory, you can run:
 
 ### `npm start`
